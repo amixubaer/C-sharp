@@ -1,0 +1,7 @@
+F:\9th Semester\Mid\C#\Multiply\obj\Debug\Multiply.csprojAssemblyReference.cache
+F:\9th Semester\Mid\C#\Multiply\obj\Debug\Multiply.csproj.CoreCompileInputs.cache
+F:\9th Semester\Mid\C#\Multiply\bin\Debug\Multiply.exe.config
+F:\9th Semester\Mid\C#\Multiply\bin\Debug\Multiply.exe
+F:\9th Semester\Mid\C#\Multiply\bin\Debug\Multiply.pdb
+F:\9th Semester\Mid\C#\Multiply\obj\Debug\Multiply.exe
+F:\9th Semester\Mid\C#\Multiply\obj\Debug\Multiply.pdb
